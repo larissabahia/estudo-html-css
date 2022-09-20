@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    text-align: center; 
+}
+header{
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+}
+.principal{
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+}
+.ponta-verde{
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+
+}
